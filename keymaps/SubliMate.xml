@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="SubliMate" parent="Mac OS X">
+  <action id="CheckinProject" />
+  <action id="ClassTemplateNavigation" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="meta alt W" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta alt W" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="Console.Jdbc.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="Console.Jpa.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="DSM.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="DumpLookupElementWeights" />
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta Y" />
+    <keyboard-shortcut first-keystroke="meta K" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift meta D" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta F12" />
+    <keyboard-shortcut first-keystroke="shift meta T" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift control F" />
+    <keyboard-shortcut first-keystroke="shift meta F" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="meta G" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift F3" />
+    <keyboard-shortcut first-keystroke="shift control L" />
+    <keyboard-shortcut first-keystroke="shift meta G" />
+  </action>
+  <action id="GoToClass" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta A" />
+    <keyboard-shortcut first-keystroke="meta P" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta N" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta L" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="GotoRow">
+    <keyboard-shortcut first-keystroke="meta L" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="GotoTest" />
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="Images.ShowThumbnails" />
+  <action id="IntroduceField" />
+  <action id="ParameterInfo" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta P" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta R" />
+    <keyboard-shortcut first-keystroke="meta alt F" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift control R" />
+    <keyboard-shortcut first-keystroke="shift meta R" />
+    <keyboard-shortcut first-keystroke="shift meta alt F" />
+  </action>
+  <action id="Scala.RenameJavaToScala" />
+  <action id="Scala.RunConsole" />
+  <action id="Scala.ShowImplicitParameters" />
+  <action id="StructuralSearchPlugin.StructuralReplaceAction" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt T" />
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
+
