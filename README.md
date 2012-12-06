@@ -48,6 +48,7 @@ I've mixed together some Sublime and TextMate shortcuts, occasionally breaking I
 * Delete Line - ⌘K
 * Go To Next Match Found (while searching) - ⌘G
 * Go To Previous Match Found (while searching) - ⌘⇧G
+* Go To Line Number - ^G or ⌘L
 * others I'm probably forgetting
 
 I removed ⌘⇧M so that I could reuse it for my system-wide Zoom shortcut
