@@ -44,7 +44,7 @@ I've mixed together some Sublime and TextMate shortcuts, occasionally breaking I
 * Close All Other Tabs - ⌘⇧⌥W
 * Find Action (Quick Command Palette) - ⌘P or ^⌘T
 * Wrap (contents in...) - ⇧^W
-* Duplicate Lines (⌘W duplicates line OR selection) - ⌘⇧W
+* Duplicate Lines (⌘D duplicates line OR selection) - ⌘⇧D
 * Delete Line - ⌘K
 * Go To Next Match Found (while searching) - ⌘G
 * Go To Previous Match Found (while searching) - ⌘⇧G
